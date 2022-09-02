@@ -43,4 +43,4 @@ Our shell has support for the following built-in commands:
 ### Credits
 
 
-All code written by [OKOJIE MICHEAL]([https://github.com/Mikeojie]) and [OLOFIN DAMILOLA](https://github.com/olofindamilola).
+All code written by [OKOJIE MICHEAL](https://github.com/Mikeojie) and [OLOFIN DAMILOLA](https://github.com/olofindamilola).
